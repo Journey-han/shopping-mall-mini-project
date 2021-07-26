@@ -91,6 +91,7 @@
   }
 
   .item {
+    border-radius: 20px;
     background-color: white;
     display: flex;
     align-items: center;
