@@ -1,5 +1,5 @@
 # shopping-mall-mini-game-project
-드림코딩 엘린님과 쇼핑몰 미니게임을 제작합니다. Make a mini shoppingmall clone with Dreamcoding Ellie.  
+드림코딩 엘리님과 쇼핑몰 미니게임을 제작합니다. Make a mini shoppingmall clone with Dreamcoding Ellie.  
 
 ## 🖥Project Result
 ![mini-game](https://t1.daumcdn.net/cafeattach/1Dzpp/f47ea5817aed6b28b2cea14a03ad0315048e646a)
